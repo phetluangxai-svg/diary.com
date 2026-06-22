@@ -1,0 +1,6 @@
+{
+  "name": "Daily Task Planner & Alerts",
+  "description": "ລະບົບວາງແຜນ ແລະ ແຈ້ງເຕືອນວຽກປະຈຳວັນ - ພ້ອມສະຫຼຸບພາບລວມ ແລະ ການວິເຄາະຈັດສັນເວລາດ້ວຍ AI ຢ່າງມີປະສິດທິພາບ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
